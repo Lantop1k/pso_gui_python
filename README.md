@@ -1,2 +1,3 @@
 # pso_gui_python
-GUI to demonstrates particle swarm optimization (PSO) applied on different functions
+Tkinter GUI to demonstrates particle swarm optimization (PSO) applied on different functions : "Ackley","Booth","Matyas","Himmelblau","Beale"
+
